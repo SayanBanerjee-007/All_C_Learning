@@ -1,0 +1,6 @@
+44
+75
+22
+11
+-5
+Sum of elements is 147
